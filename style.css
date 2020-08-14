@@ -1,0 +1,37 @@
+
+.medium {
+  color: chocolate;
+  font-family:  Roboto;
+}
+a:link {
+  color: tomato;
+}
+a:visited {
+  color: burlywood;
+}
+h2 {
+  color: brown;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border: crimson;
+  border-style: dotted;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar li {
+    list-style: none;
+    border: double cornflowerblue;;
+}
+.navbar li a {
+    text-decoration: none;
+}
+.button-hover { 
+    color: darkcyan;
+}
+:hover{
+    color: darkcyan;
+}
